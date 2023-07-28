@@ -1,0 +1,134 @@
+INSERT INTO periodi
+VALUES(12, 2);
+
+INSERT INTO Periodi
+VALUES(3, 8);
+
+INSERT INTO Periodi
+VALUES(8, 2);
+
+INSERT INTO periodi
+VALUES(1, 3);
+
+INSERT INTO periodi
+VALUES(1, 4);
+
+INSERT INTO periodi
+VALUES(0, 0), (12, 1), (3, 5);
+
+INSERT INTO periodi
+VALUES(6, 8), (7, 8);
+
+INSERT INTO periodi
+VALUES(1, 5);
+
+INSERT INTO periodi
+VALUES(1, 6);
+
+INSERT INTO periodi
+VALUES(2, 4);
+
+INSERT INTO periodi
+VALUES(2, 5);
+
+INSERT INTO periodi
+VALUES(3, 9);
+
+INSERT INTO periodi
+VALUES(10, 2);
+
+INSERT INTO periodi
+VALUES(4, 12);
+
+INSERT INTO periodi
+VALUES(6, 2);
+
+INSERT INTO periodi
+VALUES(4, 7);
+
+INSERT INTO periodi
+VALUES(9, 2);
+
+INSERT INTO periodi
+VALUES(5, 7);
+
+INSERT INTO periodi
+VALUES(4, 6);
+
+INSERT INTO periodi
+VALUES(3, 6);
+
+INSERT INTO periodi
+VALUES(3, 4);
+
+INSERT INTO periodi
+VALUES(6, 9);
+
+INSERT INTO periodi
+VALUES(4, 8);
+
+INSERT INTO periodi
+VALUES(9, 10);
+
+INSERT INTO periodi
+VALUES(5, 9);
+
+INSERT INTO periodi
+VALUES(10, 12);
+
+INSERT INTO periodi
+VALUES(9, 12);
+
+INSERT INTO periodi
+VALUES(2, 3);
+
+INSERT INTO periodi
+VALUES(5, 8);
+
+INSERT INTO periodi
+VALUES(4, 9);
+
+INSERT INTO periodi
+VALUES(11, 12);
+
+INSERT INTO periodi
+VALUES(11, 2);
+
+INSERT INTO periodi
+VALUES(10, 3);
+
+INSERT INTO periodi
+VALUES(9, 1);
+
+INSERT INTO periodi
+VALUES(12, 4);
+
+INSERT INTO periodi
+VALUES(7, 12);
+
+INSERT INTO periodi
+VALUES(7, 1);
+
+INSERT INTO periodi
+VALUES(8, 12);
+
+INSERT INTO periodi
+VALUES(12, 3);
+
+INSERT INTO periodi
+VALUES(1, 5);
+
+INSERT INTO periodi
+VALUES(6, 11);
+
+INSERT INTO periodi
+VALUES(5, 12);
+
+INSERT INTO periodi
+VALUES(8, 11);
+
+INSERT INTO periodi
+VALUES(11, 3);
+
+INSERT INTO periodi
+VALUES(9, 3);

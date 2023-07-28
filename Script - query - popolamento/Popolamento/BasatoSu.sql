@@ -1,0 +1,18 @@
+INSERT INTO BasatoSu
+VALUES('Clorpirifos–etile', 'Afidina quick', 22.6),
+('Deltametrina', 'Afidina quick', 0.54),
+('Amyloliquefaciens', 'Amylo-X', 5.8),
+('Echinacea', 'Cifoblok', 20.3),
+('Tormentilla', 'Cifoblok', 13.5),
+('Aloe', 'Cifoblok', 6.8),
+('cipermetrina ', 'Ciperbloc', 18.6),
+('Rame ossicloruro', 'Cyprus 25', 250),
+('Zolfo puro', 'Fenicrit', 28),
+('Ossicloruro di rame', 'Fenicrit', 4.5),
+('Permetrina', 'Nephorin', 0.40),
+('Tetrametrina', 'Nephorin', 0.22),
+('Cipermetrina', 'Nephorin', 0.30),
+('Piperonilbutossido', 'Nephorin', 1.20),
+('Acido alfa-linolenico', 'Olio di lino', 3.7),
+('Imidacloprid', 'Suscon', 10.4),
+('Rame solfato tribasico', 'Tri-base fun', 100);

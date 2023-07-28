@@ -1,0 +1,11 @@
+INSERT INTO Preferiti
+VALUES('Catalpa bungei', 'acc10'),
+('Corylus colurna', 'acc3'),
+('Ficus pumila', 'acc4'),
+('Taxus baccata', 'acc7'),
+('Tilia cordata', 'acc2'),
+('Acacia baileyana', 'acc9'),
+('Catalpa bungei', 'acc8'),
+('Cercis canadensis', 'acc7'),
+('Sophora davidii', 'acc6'),
+('Taxus baccata', 'acc2');

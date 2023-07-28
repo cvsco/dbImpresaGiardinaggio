@@ -1,0 +1,26 @@
+/*la concentrazione sarà indicata in percentuale*/
+
+INSERT INTO composizioneterreno
+VALUES('ter1', 'Argilla', 20),
+('ter2', 'Argilla limosa', 40),
+('ter3', 'Ghiaia', 65),
+('ter4', 'Ghiaia pietrosa', 10),
+('ter5', 'Limo', 85),
+('ter6', 'Limo sabbioso', 40),
+('ter7', 'Sabbia', 50),
+('ter8', 'Terra grassa', 60),
+('ter9', 'Terriccio argilloso', 70),
+('ter10', 'Terriccio limoso', 90),
+('ter2', 'Limo', 50),
+('ter2', 'Limo sabbioso', 10),
+('ter3', 'Sabbia', 15),
+('ter3', 'Ghiaia pietrosa', 20),
+('ter4', 'Sabbia', 90),
+('ter5', 'Limo sabbioso', 15),
+('ter6', 'Argilla', 40),
+('ter6', 'Argilla limosa', 20),
+('ter7', 'Terriccio argilloso', 50),
+('ter8', 'Terriccio argilloso', 30),
+('ter8', 'Sabbia', 10),
+('ter9', 'Terra grassa', 30),
+('ter10', 'Argilla', 10);

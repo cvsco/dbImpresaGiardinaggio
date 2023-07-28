@@ -1,0 +1,11 @@
+INSERT INTO spazioverde
+VALUES('spa1', 30, 'acc1'),
+('spa2', 80, 'acc2'),
+('spa3', 50, 'acc3'),
+('spa4', 10, 'acc4'),
+('spa5', 45, 'acc5'),
+('spa6', 35, 'acc6'),
+('spa7', 15, 'acc7'),
+('spa8', 10, 'acc8'),
+('spa9', 32, 'acc9'),
+('spa10', 15, 'acc10');
